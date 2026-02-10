@@ -25,19 +25,17 @@ My academic background combines technical system design with an understanding of
 - Software development and automation
 - Full-stack and web applications
 - System verification, simulation, and testing
-
 ---
 
-## Selected Projects
-- **Digital Stopwatch (VHDL)**  
-  Modular HH:MM:SS stopwatch using T flip-flop counters, verified with HDL simulation and circuit-level tools.
+## Selected Work
+- **Digital Systems & Hardware Projects**  
+  Clocked designs, counters, FSMs, and RTL-level implementations verified through simulation and schematic tools.
 
-- **Sensor Integration System (Raspberry Pi)**  
-  Integrated DHT11, ultrasonic sensor, LCD, and servo motor with real-time control logic.
+- **Embedded & IoT Systems**  
+  Sensor integration, GPIO control, and real-time hardware–software interaction on platforms like Raspberry Pi.
 
-- **Web & Software Projects**  
-  Full-stack applications, deployed websites, and data-oriented tools (see repositories).
-
+- **Software & Web Applications**  
+  Full-stack projects, deployed websites, and data-oriented tools spanning backend and frontend development.
 ---
 
 ## Tools & Technologies
