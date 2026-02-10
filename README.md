@@ -64,7 +64,8 @@ I’m particularly drawn to projects where low-level technical decisions have vi
 ---
 
 ## Contact
-- GitHub: you’re already here 🙂
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmedelag/)
+- 📂 GitHub: you’re already here 🙂
 - Projects, demos, and documentation are available in the repositories below
 
 *This profile showcases academic and personal projects shared for educational and portfolio purposes.*
